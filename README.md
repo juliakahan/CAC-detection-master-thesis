@@ -42,4 +42,5 @@ The pipeline is composed of four main stages:
 │
 ├── segmentation_eval/       # Segmentation quality evaluation (e.g., Dice, HD)
 │
-└── README.md                # (this file) ``` </pre>
+└── README.md                # (this file) 
+  ``` </pre>
