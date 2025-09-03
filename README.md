@@ -22,7 +22,7 @@ The pipeline is composed of four main stages:
 
 
 ## Repository structure
-CAC-detection-master-thesis/
+<pre ''' >CAC-detection-master-thesis/
 │
 ├── dataset_preparation/     # Scripts for preparing CT + labelmaps for nnU-Net
 │   ├── build_nnunet_dataset.py
@@ -42,4 +42,4 @@ CAC-detection-master-thesis/
 │
 ├── segmentation_eval/       # Segmentation quality evaluation (e.g., Dice, HD)
 │
-└── README.md                # (this file)
+└── README.md                # (this file) ``` </pre>
